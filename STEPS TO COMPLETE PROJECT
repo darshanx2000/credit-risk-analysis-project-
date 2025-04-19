@@ -1,3 +1,6 @@
+
+DATABASE - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+
 1. Data Collection & Loading
 Use Python (pandas.read_csv) or SQL to load and explore the dataset.
 
